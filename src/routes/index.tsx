@@ -46,10 +46,10 @@ const PROFILE = {
   intro:
     "I design and build digital products that feel obvious in hindsight. Currently focused on web, AI tooling, and side projects that scratch my own itch. I care about craft, simple interfaces, and shipping.",
   email: "venkatasaikumarkukkadapu@gmail.com",
-  // Replace with your image: drop a file in /public (e.g. /public/profile.jpg) and update this path
-  avatar: "/public/profile.jpg",
-  // Replace with your resume: drop a PDF in /public (e.g. /public/resume.pdf) and update this path
-  resume: "/public/resume.pdf",
+  // Replace with your image: drop a file in /public (e.g. /profile.jpg) and update this path
+  avatar: "/profile.jpg",
+  // Replace with your resume: drop a PDF in /public (e.g. /resume.pdf) and update this path
+  resume: "/resume.pdf",
   social: {
     github: "https://github.com/KVSKGT/",
     linkedin: "https://linkedin.com/in/kukkadapu-venkata-sai-kumar/",
