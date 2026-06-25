@@ -219,7 +219,7 @@ function Index() {
             <div>
               <Hero />
             </div>
-            <div className="hidden lg:block pb-12">
+            <div className="pb-12 lg:pb-12">
               <SocialLinks />
             </div>
           </div>
@@ -374,7 +374,7 @@ function Hero() {
         <InteractiveAvatar
           src={PROFILE.avatar}
           alt={PROFILE.name}
-          className="h-40 w-40 sm:h-56 sm:w-56"
+          className="w-full h-auto aspect-square sm:aspect-auto sm:h-56 sm:w-56"
         />
         <div>
           <div className="mb-3 flex items-center gap-2 text-xs text-muted-foreground">
